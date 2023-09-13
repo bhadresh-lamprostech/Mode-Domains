@@ -1,0 +1,11 @@
+*.DS_Store
+node_modules
+build
+.idea
+
+#Hardhat files
+cache
+artifacts
+deployments/localhost
+addresses.json
+.env
